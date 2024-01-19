@@ -1,0 +1,7 @@
+.timer_template{
+    display:inline-block;
+    height:90px;
+    font-size: 70px;
+    justify-content: center;
+    margin-top: 20%;
+}

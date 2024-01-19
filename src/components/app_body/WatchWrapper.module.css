@@ -1,0 +1,7 @@
+.wrapper{
+    margin-top: 10vh;
+    border: 2px solid pink;
+    height: 80vh;
+    background-color: rgb(181, 122, 132);
+    position: relative;
+}

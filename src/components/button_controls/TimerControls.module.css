@@ -1,0 +1,20 @@
+.btns_container{
+    margin-bottom: 2rem;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    height:50vh;
+    position: absolute;
+    bottom: 0px;
+    align-items: center;
+    width:-moz-available;
+}
+.btn{
+    height:60px;
+    width:120px;
+    background:aliceblue;
+    border-radius: 0.4rem;
+}
+.btn_box{
+    width:auto;
+}
