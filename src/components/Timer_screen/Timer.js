@@ -1,5 +1,6 @@
 import classes from './Timer.module.css';
 function Timer({timer}){
+    console.log(timer)
     return(
         <div className={classes.timer_template}>
             <span>{("0" + Math.floor((timer / 6000) % 60)).slice(-2)}:</span>
